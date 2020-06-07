@@ -1,0 +1,3 @@
+# GetGroceries
+
+A website for GetGroceries which is a grocery delivery service. The site was built using HTML5 and CSS3 and developed to be responsive as well as accessible with the inclusion of Accessible Rich Internet Applications (ARIA) attributes. The development process involved the creation of a prototype using high-fidelity wireframes. Design improvements were carried out based upon feedback received from Guerrilla and usability testing.
